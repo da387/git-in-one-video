@@ -2,8 +2,7 @@ BlastoiseMega Blastoise	Water		79	103	120	135	115	78	1	FALSE
 10	Caterpie	Bug		45	30	35	20	20	45	1	FALSE
 11	Metapod	Bug		50	20	55	25	25	30	1	FALSE
 12	Butterfree	Bug	Flying	60	45	50	90	80	70	1	FALSE
-13	Weedle	Bug	Poison	40	35	30	20	20	50	1	FALSE
-14	Kakuna	Bug	Poison	45	25	50	25	25	35	1	FALSE
+
 15	Beedrill	Bug	Poison	65	90	40	45	80	75	1	FALSE
 15	BeedrillMega Beedrill	Bug	Poison	65	150	40	15	80	145	1	FALSE
 16	Pidgey	Normal	Flying	40	45	40	35	35	56	1	FALSE
