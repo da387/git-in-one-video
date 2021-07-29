@@ -1,0 +1,41 @@
+ickitung	Normal		90	55	75	60	75	30	1	FALSE
+109	Koffing	Poison		40	65	95	60	45	35	1	FALSE
+110	Weezing	Poison		65	90	120	85	70	60	1	FALSE
+111	Rhyhorn	Ground	Rock	80	85	95	30	30	25	1	FALSE
+112	Rhydon	Ground	Rock	105	130	120	45	45	40	1	FALSE
+113	Chansey	Normal		250	5	5	35	105	50	1	FALSE
+114	Tangela	Grass		65	55	115	100	40	60	1	FALSE
+115	Kangaskhan	Normal		105	95	80	40	80	90	1	FALSE
+115	KangaskhanMega Kangaskhan	Normal		105	125	100	60	100	100	1	FALSE
+116	Horsea	Water		30	40	70	70	25	60	1	FALSE
+117	Seadra	Water		55	65	95	95	45	85	1	FALSE
+118	Goldeen	Water		45	67	60	35	50	63	1	FALSE
+119	Seaking	Water		80	92	65	65	80	68	1	FALSE
+120	Staryu	Water		30	45	55	70	55	85	1	FALSE
+121	Starmie	Water	Psychic	60	75	85	100	85	115	1	FALSE
+122	Mr. Mime	Psychic	Fairy	40	45	65	100	120	90	1	FALSE
+123	Scyther	Bug	Flying	70	110	80	55	80	105	1	FALSE
+124	Jynx	Ice	Psychic	65	50	35	115	95	95	1	FALSE
+125	Electabuzz	Electric		65	83	57	95	85	105	1	FALSE
+126	Magmar	Fire		65	95	57	100	85	93	1	FALSE
+127	Pinsir	Bug		65	125	100	55	70	85	1	FALSE
+127	PinsirMega Pinsir	Bug	Flying	65	155	120	65	90	105	1	FALSE
+128	Tauros	Normal		75	100	95	40	70	110	1	FALSE
+129	Magikarp	Water		20	10	55	15	20	80	1	FALSE
+130	Gyarados	Water	Flying	95	125	79	60	100	81	1	FALSE
+130	GyaradosMega Gyarados	Water	Dark	95	155	109	70	130	81	1	FALSE
+131	Lapras	Water	Ice	130	85	80	85	95	60	1	FALSE
+132	Ditto	Normal		48	48	48	48	48	48	1	FALSE
+133	Eevee	Normal		55	55	50	45	65	55	1	FALSE
+134	Vaporeon	Water		130	65	60	110	95	65	1	FALSE
+135	Jolteon	Electric		65	65	60	110	95	130	1	FALSE
+136	Flareon	Fire		65	130	60	95	110	65	1	FALSE
+137	Porygon	Normal		65	60	70	85	75	40	1	FALSE
+138	Omanyte	Rock	Water	35	40	100	90	55	35	1	FALSE
+139	Omastar	Rock	Water	70	60	125	115	70	55	1	FALSE
+140	Kabuto	Rock	Water	30	80	90	55	45	55	1	FALSE
+141	Kabutops	Rock	Water	60	115	105	65	70	80	1	FALSE
+142	Aerodactyl	Rock	Flying	80	105	65	60	75	130	1	FALSE
+142	AerodactylMega Aerodactyl	Rock	Flying	80	135	85	70	95	150	1	FALSE
+143	Snorlax	Normal		160	110	65	65	110	30	1	FALSE
+144	Articuno	Ice	Flying	90	85
